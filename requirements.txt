@@ -1,0 +1,9 @@
+requests
+polyline
+opencv-python
+matplotlib
+numpy
+torch
+transformers
+pillow
+flask
